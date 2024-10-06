@@ -4,7 +4,7 @@ import multer from 'multer';
 import { User } from './models/user.models.js';// Adjust the path to your User model
 import path from 'path';
 import fs from 'fs';
-``
+
 const app = express();
 
 // Set up multer for file storage
